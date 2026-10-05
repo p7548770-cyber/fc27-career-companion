@@ -1,0 +1,7 @@
+FC 27 Career Companion Beta 6 – Setup in fuenf Teilen
+
+Lade alle fuenf .part-Dateien und SETUP-ZUSAMMENFUEGEN.bat in denselben Ordner herunter.
+Doppelklicke dann auf SETUP-ZUSAMMENFUEGEN.bat. Es wird die vollstaendige Setup-Datei erzeugt:
+FC27-Career-Companion-Setup-1.1.0-beta.6.exe
+
+Anschliessend kannst du diese EXE wie gewohnt starten.
